@@ -1,0 +1,2 @@
+class ChakulasController < ApplicationController
+end
